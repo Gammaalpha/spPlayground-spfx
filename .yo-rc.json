@@ -1,0 +1,14 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.10.0",
+    "libraryName": "sp-playground-spfx",
+    "libraryId": "7ee21736-b247-4c63-b357-be2cb7edc2c3",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "SpPlayground-spfx",
+    "framework": "none",
+    "isCreatingSolution": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
